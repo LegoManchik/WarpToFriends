@@ -1,0 +1,19 @@
+{
+  "menu.title": "Warp to Friends",
+  "menu.options_tooltip": "Configure mod options",
+  "menu.no_friends": "No other players found.",
+  "button.warp": "Warp",
+  "button.warp-cost": "Warp ({{percent}}%)",
+  "hud.not-enough-energy": "Not enough energy to warp! Required: {{percent}}% ({{cost}} energy)",
+  "hud.location-offline": "Friend is currently offline or location is unavailable.",
+  "config.open-menu-key.name": "Open Menu Key",
+  "config.open-menu-key.desc": "Key or button to open the Warp to Friends menu.",
+  "config.energy-cost.name": "Energy Cost (%)",
+  "config.energy-cost.desc": "Percentage of player's maximum energy consumed per teleportation.",
+  "config.allow-exhaustion.name": "Allow Exhaustion",
+  "config.allow-exhaustion.desc": "Allow teleportation even if stamina drops below zero (causes exhaustion).",
+  "config.console-warp.name": "Enable Chat Warp Command",
+  "config.console-warp.desc": "Allow warping using the '!warp <friend>' chat command.",
+  "config.host_only_tag": "Host Only",
+  "config.host_only_tooltip": "[Managed by host]"
+}

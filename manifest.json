@@ -1,0 +1,12 @@
+{
+  "Name": "Warp to Friends",
+  "Author": "Shalankwa (updated by LegoManchik)",
+  "Version": "1.3.0",
+  "Description": "Warp to friend locations with stamina cost and modern Stardew Valley 1.6 compatibility.",
+  "UniqueID": "Shalankwa.WarpToFriends",
+  "EntryDll": "WarpToFriends.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:2180"
+  ]
+}

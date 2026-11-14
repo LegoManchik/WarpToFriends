@@ -1,0 +1,19 @@
+{
+  "menu.title": "Телепорт к друзьям",
+  "menu.options_tooltip": "Настройки мода",
+  "menu.no_friends": "Другие игроки не найдены.",
+  "button.warp": "Телепорт",
+  "button.warp-cost": "Телепорт ({{percent}}%)",
+  "hud.not-enough-energy": "Недостаточно энергии для телепортации! Нужно: {{percent}}% ({{cost}} эд.)",
+  "hud.location-offline": "Друг сейчас не в сети или локация недоступна.",
+  "config.open-menu-key.name": "Клавиша открытия меню",
+  "config.open-menu-key.desc": "Клавиша для открытия меню телепортации к друзьям.",
+  "config.energy-cost.name": "Расход энергии (%)",
+  "config.energy-cost.desc": "Процент от максимальной энергии игрока, расходуемый при телепортации к другу.",
+  "config.allow-exhaustion.name": "Разрешить истощение",
+  "config.allow-exhaustion.desc": "Разрешать телепортацию при нехватке энергии (вызовет истощение).",
+  "config.console-warp.name": "Команда чата !warp",
+  "config.console-warp.desc": "Разрешить телепортацию с помощью команды в чате '!warp <ник>'.",
+  "config.host_only_tag": "Только хост",
+  "config.host_only_tooltip": "[Управляется хостом]"
+}
